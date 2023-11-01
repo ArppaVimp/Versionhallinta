@@ -1,2 +1,2 @@
 # Versionhallinta
-Tämä on keskeneräin dokumentti. Tehkää lisäyksiä.
+Tämä on keskeneräinen dokumentti. Tehkää lisäyksiä.
